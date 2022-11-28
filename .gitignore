@@ -142,3 +142,6 @@ fabric.properties
 env
 venv
 .venv
+
+## 
+*/.ipynb_checkpoints/*
