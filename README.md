@@ -1,4 +1,4 @@
-# eq2seqCalculator
+# seq2seqCalculator
 Seq2seq stands for “sequence to sequence”. This kind of model is used, like that name says, to map one type of sequence to another type of sequence. For example this is used in translation where the sequences consist of texts that need to be translated from one language to another. 
 
 ## Model
